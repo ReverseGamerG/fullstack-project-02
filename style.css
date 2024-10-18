@@ -5,6 +5,7 @@
 
 body{
   font-family: "Open Sans", serif;
+  background-color: #f5f4f0;
 }
 
 #container{
@@ -117,6 +118,11 @@ footer{
   text-align: center;
 }
 
+footer img{
+  vertical-align: middle;
+}
+
 #last{
   text-align: center;
+  
 }
